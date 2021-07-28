@@ -36,8 +36,8 @@ set pastetoggle=<F3>
 set clipboard+=unnamedplus                                                                                                                                                                                                
                                                                                                                                                                                                                           
 "--- The following commands make the navigation keys work like standard editors                                                                                                                                           
-imap <silent> <Down> <C-o>gj                                                                                                                                                                                              
-imap <silent> <Up> <C-o>gk                                                                                                                                                                                                
-nmap <silent> <Down> gj                                                                                                                                                                                                   
-nmap <silent> <Up> gk                                                                                                                                                                                                     
+"imap <silent> <Down> <C-o>gj                                                                                                                                                                                              
+"imap <silent> <Up> <C-o>gk                                                                                                                                                                                                
+"nmap <silent> <Down> gj                                                                                                                                                                                                   
+"nmap <silent> <Up> gk                                                                                                                                                                                                     
 "--- Ends navigation commands
