@@ -7,6 +7,7 @@ set smartindent  "Automatically indents lines after opening a bracket in program
 set backspace=2  "This makes the backspace key function like it does in other programs.                                                                                                                                   
 set tabstop=4  "How much space Vim gives to a tab                                                                                                                                                                         
 set number  "Enables line numbering                                                                                                                                                                                       
+nnoremap <F12> :set nonumber!<CR>
 set smarttab  "Improves tabbing                                                                                                                                                                                           
 set shiftwidth=4  "Assists code formatting                                                                                                                                                                                
 filetype on                                                                                                                                                                                                               
