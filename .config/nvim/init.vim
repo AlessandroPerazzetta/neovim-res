@@ -9,7 +9,14 @@ set tabstop=4  "How much space Vim gives to a tab
 set number  "Enables line numbering                                                                                                                                                                                       
 nnoremap <F12> :set nonumber!<CR>
 set smarttab  "Improves tabbing                                                                                                                                                                                           
-set shiftwidth=4  "Assists code formatting                                                                                                                                                                                
+set shiftwidth=4  "Assists code formatting
+set ttyfast "Make Keyboard fast    
+set timeout timeoutlen=1000 ttimeoutlen=50    
+set showmode "Always show what mode we're currently editing in    
+set nowrap "Don't wrap lines    
+set fileformats="unix,dos,mac"    
+set autoread "Automatically reload files changed outside of Vim    
+
 filetype on                                                                                                                                                                                                               
 filetype indent on                                                                                                                                                                                                        
 filetype plugin on                                                                                                                                                                                                        
