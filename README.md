@@ -1,1 +1,2 @@
-# neovim-res
+#Neovim config
+Simple, clean basic (no plugin) init
