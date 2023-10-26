@@ -1,2 +1,2 @@
-#Neovim config
+# Neovim config
 Simple, clean basic (no plugin) init
